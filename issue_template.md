@@ -1,3 +1,6 @@
-Enter a short title and a user story in the description:
-
+### User story
 As a __, I want __  so that __.
+
+### Relevant links
+* []()
+
